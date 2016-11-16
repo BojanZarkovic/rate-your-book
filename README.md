@@ -15,7 +15,7 @@ pass:root and
 database name:books by default.
 
 
-In PHPMyAdmin execute the queries from .sql files in order as they are named.
+In PHPMyAdmin import the .sql file.
 
 
 bojanzarkovic@gmail.com
